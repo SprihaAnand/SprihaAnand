@@ -10,12 +10,9 @@ Spriha</a></h1>
 
 
 
-- 🌱 I’m currently Working on Front End Projects
+- 🌱 Full Stack Web Developer in REACT and MERN. 
 
 - 🤝 I’m available for internships.
-
-- 🌱 I’m currently learning React and DSA
-
 
 - 📫 How to reach me **sprihaanand@gmail.com**
 
