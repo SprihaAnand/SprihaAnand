@@ -50,7 +50,7 @@
 <table>
    <tr>
       <td>
-         <img src="https://spotify-recently-played-readme.vercel.app/api?user=36oylxmc9h8vevlgi7d5ut8xu&count=1&width=500" align="center"/>
+         ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=spriha&count=1)
       </td>
       <td rowspan=2>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SprihaAnand&theme=dark" align="center"/> 
