@@ -2,12 +2,8 @@
 <p align="center">
    <a>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-      <img align="center" height="350" width="150"src="https://github.com/SprihaAnand/SprihaAnand/assets/97617046/e35d17da-7846-431b-913c-fa1fca7cb268"/> 
-      
-
-
-  
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+      <img align="center" height="300" width="150"src="https://github.com/SprihaAnand/SprihaAnand/assets/97617046/e35d17da-7846-431b-913c-fa1fca7cb268"/> 
+<img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
 </p>
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hi 👋, I'm Spriha</h1>
@@ -49,8 +45,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sprihaanand&show_icons=true&locale=en" alt="sprihaanand" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sprihaanand&" alt="sprihaanand" /></p>
 
+<h2 align="center">My Contribution Streak !! :fire:</h2>
+
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   </a>
+</p>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=SprihaAnand&column=8&theme=gruvbox&no-frame=true"/>
