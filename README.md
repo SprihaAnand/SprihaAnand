@@ -77,5 +77,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=SprihaAnand&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-## Progile Overview
+
+<h2 align="center"> Profile Overview</h2>
 ![Profile views](https://gpvc.arturio.dev/SprihaAnand)  
