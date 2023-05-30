@@ -79,4 +79,4 @@
 </a>
 
 <h2 > Profile Overview</h2> 
-https://metrics.lecoq.io/SprihaAnand
+![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)
