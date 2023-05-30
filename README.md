@@ -78,5 +78,5 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=SprihaAnand&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-<h2 > Profile Overview</h2>
+<h2 > Profile Overview</h2> 
 [GitHub metrics](https://metrics.lecoq.io/SprihaAnand)
