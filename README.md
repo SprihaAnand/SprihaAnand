@@ -79,4 +79,4 @@
 </a>
 
 <h2 > Profile Overview</h2> 
-[GitHub metrics](https://metrics.lecoq.io/SprihaAnand)
+(https://metrics.lecoq.io/SprihaAnand)
