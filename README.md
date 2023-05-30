@@ -54,12 +54,12 @@
       </td>
       <td rowspan=2>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SprihaAnand&theme=dark" align="center"/> 
-<!--          <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true&theme=gotham" /></td> -->
+<!--          <td><img src="https://github-readme-stats.vercel.app/api?username=SprihaAnand&show_icons=true&theme=gotham" /></td> -->
       </td>
    </tr>
 <!--    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true&theme=gotham" /></td> -->
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&count_private=true&theme=dark&show_icons=true" align="center"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=SprihaAnand&show_icons=true&theme=gotham" /></td> -->
+      <td><img src="https://github-readme-stats.vercel.app/api?username=SprihaAnand&count_private=true&theme=dark&show_icons=true" align="center"/></td>
    </tr>
 </table>
 <br/>
