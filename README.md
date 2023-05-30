@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Spriha</h1>
+
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+      <img align="center" height="150" width="150"src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"/>
+   <!-- <img align="center" height="150" width="150"src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/> -->
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   </a>
+</p>
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /><h1 align="center">Hi 👋, I'm Spriha</h1>
 <h3 align="center">A MERN Stack developer from India</h3>
 
 - 🔭 I’m currently working on [MordernBlogPost](https://github.com/SprihaAnand/PyCray)
