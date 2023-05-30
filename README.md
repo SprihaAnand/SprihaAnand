@@ -50,7 +50,6 @@
 <table>
    <tr>
       <td>
-         ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=spriha&count=1)
       </td>
       <td rowspan=2>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SprihaAnand&theme=dark" align="center"/> 
@@ -78,3 +77,5 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=SprihaAnand&column=8&theme=gruvbox&no-frame=true"/>
 </a>
+## Progile Overview
+![Profile views](https://gpvc.arturio.dev/SprihaAnand)  
