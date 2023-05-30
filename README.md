@@ -45,7 +45,7 @@
 
 
 
-## Stats!:
+## Stats
 
 <table>
    <tr>
