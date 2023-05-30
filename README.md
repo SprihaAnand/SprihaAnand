@@ -79,4 +79,4 @@
 </a>
 
 <h2 > Profile Overview</h2> 
-![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)
+View my GitHub metrics @ (https://metrics.lecoq.io/Mugdha-Hazra)
