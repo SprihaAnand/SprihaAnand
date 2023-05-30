@@ -26,7 +26,6 @@
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SprihaAnand&theme=vue)
    ![](https://activity-graph.herokuapp.com/graph?username=SprihaAnand&theme=dracula&hide_border=true&area=true)
-    <img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
 
    <br/>
    
