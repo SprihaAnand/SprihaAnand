@@ -12,7 +12,12 @@
 - 📫 How to reach me **sprihaanand@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/13M_6tvEQ_0rru9XPDXN6_iDFrnXxwGS2?usp=share_link](https://drive.google.com/drive/folders/13M_6tvEQ_0rru9XPDXN6_iDFrnXxwGS2?usp=share_link)
-
+  ## 💻 My contribution Graph
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SprihaAnand&theme=vue)
+   ![](https://activity-graph.herokuapp.com/graph?username=SprihaAnand&theme=dracula&hide_border=true&area=true)
+   <br/>
+   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@sprihaaa_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sprihaaa_anand" height="30" width="40" /></a>
