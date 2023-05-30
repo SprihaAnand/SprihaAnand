@@ -2,10 +2,11 @@
 <p align="center">
    <a>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-<!--       <img align="center" height="150" width="150"src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"/> -->
+      <img align="center" height="150" width="150"src="https://github.com/SprihaAnand/SprihaAnand/assets/97617046/e35d17da-7846-431b-913c-fa1fca7cb268"/> 
       
 
-   <img align="center" height="150" width="150"src="(https://github.com/SprihaAnand/SprihaAnand/assets/97617046/2991c02c-6da0-49ce-bb87-8b800fb09122)"/> 
+
+  
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
 </p>
