@@ -11,7 +11,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hi 👋, I'm Spriha</h1>
 <h3 align="center">A MERN Stack developer from India</h3>
 
-- 🔭 I’m currently working on [MordernBlogPost](https://github.com/SprihaAnand/PyCray)
 
 - 🌱 I’m currently learning **DSA, Machine learning**
 
