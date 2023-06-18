@@ -78,4 +78,4 @@
 </a>
 
 <h2 > Profile Overview</h2> 
-View my GitHub metrics @ (https://metrics.lecoq.io/SprihaAnand)
+View my GitHub metrics @ https://metrics.lecoq.io/SprihaAnand
