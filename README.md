@@ -63,7 +63,7 @@
 <br/>
 
 
-<h2 align="center">My Contribution Streak !! :fire:</h2>
+<h2 align="center">My Contribution Streak</h2>
 
 <p align="center">
    <a>
