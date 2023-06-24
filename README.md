@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **DSA, Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://sprihaanand.github.io/MyPortfolio/](https://sprihaanand.github.io/MyPortfolio/)
+- 👨‍💻 All  of my projects are available at [https://sprihaanand.github.io/MyPortfolio/](https://sprihaanand.github.io/MyPortfolio/)
 
 - 💬 Ask me about **MERN stack, Unsupervised learning**
 
