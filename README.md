@@ -12,7 +12,7 @@
 <h3 align="center">A MERN Stack developer from  India </h3>
 
 
-- 🌱 I’m currently learning **DSA, Machine learning**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All  of my projects are available at [https://sprihaanand.github.io/MyPortfolio/](https://sprihaanand.github.io/MyPortfolio/)
 
