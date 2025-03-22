@@ -12,11 +12,11 @@
 <h3 align="center">A MERN Stack developer from  India </h3>
 
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently working as a Project Intern @ Oracle.
 
 - 👨‍💻 All  of my projects are available at [https://sprihaanand.github.io/MyPortfolio/](https://sprihaanand.github.io/MyPortfolio/)
 
-- 💬 Ask me about **MERN stack, Unsupervised learning**
+- 💬 Ask me about **MERN stack, DSA**
 
 - 📫 How to reach me **sprihaanand@gmail.com**
 
