@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently working as a Project Intern @ Oracle.
 
-- 👨‍💻 All  of my projects are available at [https://sprihaanand.github.io/MyPortfolio/](https://sprihaanand.github.io/MyPortfolio/)
+<!-- - 👨‍💻 All  of my projects are available at [https://sprihaanand.github.io/MyPortfolio/](https://sprihaanand.github.io/MyPortfolio/)
 
-- 💬 Ask me about **MERN stack, DSA**
+- 💬 Ask me about **MERN stack, DSA**-->
 
 - 📫 How to reach me **sprihaanand@gmail.com**
 
