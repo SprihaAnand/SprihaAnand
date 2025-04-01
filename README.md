@@ -8,7 +8,7 @@
 <!--<img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">-->
    </a>
 </p>
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hi 👋, I'm Spriha</h1>
+<h1 align="center">Hi 👋, I'm Spriha</h1>
 <h3 align="center">A MERN Stack developer from  India </h3>
 
 
