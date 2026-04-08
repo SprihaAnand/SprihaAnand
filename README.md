@@ -1,81 +1,161 @@
+<div align="center">
 
-<p align="center">
-   <a>
-<!--    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png"> -->
-      <img align="center" height="300" width="150"src="https://github.com/SprihaAnand/SprihaAnand/assets/97617046/4c841bbf-bc8d-4e7f-bd3c-3419bcc881ae"/> 
-    
+# Hi there, I'm Spriha Anand 👋
 
-<!--<img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">-->
-   </a>
-</p>
-<h1 align="center">Hi 👋, I'm Spriha</h1>
-<h3 align="center">A MERN Stack developer from  India </h3>
+### Backend-Focused Software Engineer • Automation • Developer Tooling • AI Workflows
 
-
-- 🌱 I’m currently working as a Project Intern @ Oracle.
-
-<!-- - 👨‍💻 All  of my projects are available at [https://sprihaanand.github.io/MyPortfolio/](https://sprihaanand.github.io/MyPortfolio/)
-
-- 💬 Ask me about **MERN stack, DSA**-->
-
-- 📫 How to reach me **sprihaanand@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/13M_6tvEQ_0rru9XPDXN6_iDFrnXxwGS2?usp=share_link](https://drive.google.com/drive/folders/13M_6tvEQ_0rru9XPDXN6_iDFrnXxwGS2?usp=share_link)
-  ## 💻 My contribution Graph
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SprihaAnand&theme=vue)
-   ![](https://activity-graph.herokuapp.com/graph?username=SprihaAnand&theme=dracula&hide_border=true&area=true)
-
-   <br/>
-   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@sprihaaa_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sprihaaa_anand" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/spriha-anand-818672227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spriha-anand-818672227/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21965769/spriha-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21965769/spriha-anand" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_sprihaaaaa_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_sprihaaaaa_/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sprihaanand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sprihaanand/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sprihaanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sprihaanand" height="30" width="40" /></a>
+<p>
+  <a href="mailto:sprihaanand@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sprihaanand%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/spriha-anand-818672227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Spriha%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/sprihaanand/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/SprihaAnand" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-
-
-## Stats
-
-<table>
-   <tr>
-      <td>
-      </td>
-      <td rowspan=2>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SprihaAnand&theme=dark" align="center"/> 
-<!--          <td><img src="https://github-readme-stats.vercel.app/api?username=SprihaAnand&show_icons=true&theme=gotham" /></td> -->
-      </td>
-   </tr>
-<!--    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=SprihaAnand&show_icons=true&theme=gotham" /></td> -->
-      <td><img src="https://github-readme-stats.vercel.app/api?username=SprihaAnand&count_private=true&theme=dark&show_icons=true" align="center"/></td>
-   </tr>
-</table>
-<br/>
-
-
-<h2 align="center">My Contribution Streak</h2>
-
-<p align="center">
-   <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SprihaAnand&theme=dark&hide_border=true"/>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
-   </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SprihaAnand&label=Profile%20Views&color=7c3aed&style=flat" alt="profile views" />
 </p>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=SprihaAnand&column=8&theme=gruvbox&no-frame=true"/>
-</a>
 
-<h2 > Profile Overview</h2> 
-View my GitHub metrics @ https://metrics.lecoq.io/SprihaAnand
+</div>
+
+---
+
+## About Me
+
+I’m a backend-focused software engineer with experience in:
+
+- building **internal developer tools**
+- automating **engineering and compliance workflows**
+- debugging and improving **enterprise systems**
+- exploring **AI-enabled productivity tooling**
+
+Currently, I’m working at **Oracle** as an **Associate Software Developer**, where I work across Java/C++ components, debugging workflows, compliance automation, and MCP-based tooling.
+
+---
+
+## What I’m Working On
+
+- Backend engineering with **Java, Spring Boot, Python, and C++**
+- Internal tools and workflow automation
+- **MCP-based productivity tools**
+- Practical AI engineering using **LangChain, LangGraph, OpenAI, and Gemini**
+- Writing clean, maintainable, useful systems that solve real engineering problems
+
+---
+
+## Experience Snapshot
+
+### **Oracle, Bangalore**
+**Associate Software Developer [OCPIC]**  
+*Sept 2025 – Present*
+
+- Resolved customer-reported bugs across **Java and C++** components
+- Built **MCP servers** and automation workflows for engineering/support use cases
+- Automated **CIS-CAT** and **Black Duck** scan workflows
+- Improved team productivity through tooling and workflow optimization
+
+**Project Intern**  
+*Jan 2025 – Jul 2025*
+
+- Reproduced and validated defects in **Oracle Performance Intelligence Center**
+- Supported debugging, verification, and faster root-cause analysis
+- Contributed to production-oriented engineering workflows
+
+### **Previous Internships**
+- **Web Tech Masters** — MERN Development & UI/UX Intern
+- **Datence Technologies** — Frontend Development Intern
+
+---
+
+## Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### AI / Developer Tooling
+![MCP](https://img.shields.io/badge/MCP-222222?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B5563?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Black Duck](https://img.shields.io/badge/Black%20Duck-000000?style=flat-square)
+![CIS--CAT](https://img.shields.io/badge/CIS--CAT-1F2937?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## Featured Projects
+
+### DayCraftAI
+**Python • Streamlit • Gemini API • MCP**
+
+A productivity assistant that transforms natural-language input into daily schedules, prioritizes tasks, analyzes productivity patterns, and suggests improvements.
+
+**Highlights**
+- natural-language schedule generation
+- productivity-focused workflow design
+- practical LLM integration
+
+---
+
+### Nayan
+**Python • Gradio • Whisper • gTTS**
+
+A voice-guided assistive vision tool that accepts spoken commands, performs captioning / object detection / label reading, and returns results as audio output.
+
+**Highlights**
+- accessibility-oriented design
+- multimodal interaction
+- speech + vision workflow integration
+
+---
+
+## Achievements
+
+- **JPMorgan Chase & Co. 2024 Code for Good, Bangalore**
+- Built a solution for **EXPA Foundation** in a collaborative hackathon setting
+- Organized peer-facing workshops through the **Computer Science Engineers Community**
+
+---
+
+## Education
+
+**National Institute of Technology Hamirpur**  
+**B.Tech in Computer Science & Engineering**  
+**CGPA: 9.51 / 10**
+
+Relevant coursework:
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+
+---
+
+## A Few Things About Me
+
+```text
+- I like building systems that save people time
+- I enjoy turning messy workflows into clean automation
+- I’m especially interested in backend systems + AI engineering
+- I care about practical impact more than hype
